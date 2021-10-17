@@ -45,4 +45,10 @@ username: ChristeenaS
 college : MITS
 city: Kochi 
 }
+{
 
+name: Aaradhya
+username: laulak123
+college: GNDU
+city: Amritsar
+}
