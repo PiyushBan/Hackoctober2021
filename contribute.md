@@ -40,9 +40,17 @@ college: IIIT Sonepat
 city: Amritsar
 }
 
+{
 name: Christeena S Anakkallumkal
 username: ChristeenaS
 college : MITS
 city: Kochi 
 }
 
+
+{
+name: Prajna
+username: Prajnaprabhu3
+college: MIT Manipal
+city: Manipal
+}
