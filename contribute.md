@@ -47,10 +47,29 @@
     city: Kochi 
 }
 
-{
+{Laikokwui-simple-webpage-hackoctober
     name: Lai Kok Wui
     username: Laikokwui
     college: Swinburne University of Technology
     city: Kuching
+name: Christeena S Anakkallumkal
+username: ChristeenaS
+college : MITS
+city: Kochi 
 }
+{
 
+
+name: Aaradhya
+username: laulak123
+college: GNDU
+city: Amritsar
+
+
+{
+name: Prajna
+username: Prajnaprabhu3
+college: MIT Manipal
+city: Manipal
+
+}
